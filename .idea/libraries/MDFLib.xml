@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="MDFLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../analysis/lib/MDFLib.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../analysis/lib/MDFLib.jar!/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../analysis/lib/MDFLib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
