@@ -19,6 +19,7 @@
     </JAVADOC>
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/lib/MDFLib.jar!/" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/jdom-2.0.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
